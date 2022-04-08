@@ -7,7 +7,7 @@
     <img src="https://media.discordapp.net/attachments/960720492644433942/961970381038694471/Jeanne.webp" alt="Pbot-plus" width="200" height="200">
   </a>
 
-  <h3 align="center">Aero</h3>
+  <h3 align="center">Jeanne</h3>
 
   <p align="center">
     Advanced entertainment bot to make your server more enjoyable.
