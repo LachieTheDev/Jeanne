@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/LachieTheDev/Aero">
+  <a href="https://github.com/LachieTheDev/Jeanne">
     <img src="https://media.discordapp.net/attachments/960720492644433942/961970381038694471/Jeanne.webp" alt="Pbot-plus" width="200" height="200">
   </a>
 
