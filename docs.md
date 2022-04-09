@@ -1,6 +1,3 @@
-
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeanne&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -24,10 +21,10 @@
 ## 🎭 Commands
 
 - [x] 8ball
-- [x] Great Commands To Make Users Experience Better
-- [x] 24/7 Uptime
-- [x] Slash Commands
-- [x] Customizable Features
+- [x] Sadcat
+- [x] roast
+- [x] hug
+- [x] dice
 
 
 <!-- ABOUT THE PROJECT -->
